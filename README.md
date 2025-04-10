@@ -4,3 +4,4 @@ Create EKS node group role with policies - AmazonEKSWorkerNodePolicy, AmazonEC2C
 Create the EKS cluster.
 Create the node group.
 Apply the deployment.yaml kubectl config.
+Hi This is Niranjan Rawal
